@@ -6,6 +6,7 @@
 ## Contents:
    + [Installation steps and basic](#Installing-Angular-CLI)
    + [Important Packages](#Important-Packages)
+   + [Awesome Packages](#Awesome-Packages)
    + [Web Tutorials](#Web-Tutorials )
    + [Video Tutorials](#Video-Tutorials)
    + [Courses](#Courses)
@@ -216,6 +217,10 @@
    - npm i angular-google-charts
    - Used for: To add google charts in web app
    - Link: https://www.npmjs.com/package/angular-google-charts
+
+## Awesome Packages
+
+### [Export To Csv](https://github.com/javiertelioz/angular2-csv)
    
 ## Web Tutorials 
 1. https://angular.io/start
