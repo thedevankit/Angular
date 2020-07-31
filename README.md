@@ -217,6 +217,8 @@
    - npm i angular-google-charts
    - Used for: To add google charts in web app
    - Link: https://www.npmjs.com/package/angular-google-charts
+   - Demo: [Demo code](https://stackblitz.com/edit/angular-google-chart?file=src%2Fapp%2Fpie-chart.component.ts)
+   - Documentation: [devrandom-official doc](https://www.devrandom.it/software/ng2-google-charts/additional-documentation/formatters.html) 
 
 ## Awesome Packages
 
