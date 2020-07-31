@@ -1,0 +1,4 @@
+ const formData = new FormData();
+    formData.append("file", commentPost.file);
+    formData.append("data", JSON.stringify(commentPost));
+    return this.api.post('postComment', formData);
