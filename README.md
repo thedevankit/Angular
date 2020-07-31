@@ -1,4 +1,6 @@
 #  Angular Notes/Cheatsheet and Learning Kit
+[![HitCount](http://hits.dwyl.com/thedevankit/angular.svg)](http://hits.dwyl.com/thedevankit/angular)
+
 [![HitCount](http://hits.dwyl.io/anki7s/Angular.svg)](http://hits.dwyl.io/anki7s/Angular)
 
 ![alt text](angular-header.png)
