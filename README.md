@@ -223,6 +223,7 @@
 ## Awesome Packages
 
 ### [Export To Csv](https://github.com/javiertelioz/angular2-csv)
+### [Pdfjs-viewer](https://www.npmjs.com/package/ng2-pdfjs-viewer)
    
 ## Web Tutorials 
 1. https://angular.io/start
