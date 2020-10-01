@@ -213,6 +213,11 @@
    - npm i @angular/pwa
    - Used for: To add PWA feature in angular web app
    - Link: https://www.npmjs.com/package/@angular/pwa
+
+### ng-simple-slideshow
+   - npm i ng-simple-slideshow
+   -Used for: Adding responsive image sliders/ car
+   - Link: https://www.npmjs.com/package/ng-simple-slideshow
 ### Google Charts
    - npm i angular-google-charts
    - Used for: To add google charts in web app
