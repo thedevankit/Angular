@@ -185,7 +185,7 @@
    - Link: https://www.npmjs.com/package/@angular/pwa
 ### ng-simple-slideshow
    - npm i ng-simple-slideshow
-   -Used for: Adding responsive image sliders/ Carousel
+   - Used for: Adding responsive image sliders/ Carousel
    - Link: https://www.npmjs.com/package/ng-simple-slideshow
 ### Google Charts
    - npm i angular-google-charts
