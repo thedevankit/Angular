@@ -71,39 +71,31 @@
 - Link:  (https://www.npmjs.com/package/bootstrap)
 - Installation steps:
         Add Bootstrap js and bootstrap css in angular.json  at style and script.
-
 ### Ng Bootsttrap
 - npm install --save @ng-bootstrap/ng-bootstrap
 - Link : https://ng-bootstrap.github.io/#/home
-
 ### Components and Material Design for Angular
 - ng add @angular/material
 - Link:  (https://www.npmjs.com/package/@angular/material)
-
 ### Jquery:
    - Installation steps:
         Add Jquery js before bootstrap js in angular.json  at style and script.
    - Link: (https://www.npmjs.com/package/jquery) 
-
 ### Multiple select 
    - npm install --save @ng-select/ng-select
    - https://www.npmjs.com/package/@ng-select/ng-select
 ### Image slider:
    - npm install angular-image-slider --save
    - Link: (https://www.npmjs.com/package/angular-image-slider)
-
 ### Angular Custom Scrollbar:
    - npm i -S ngx-scrollbar @angular/cdk
    - Link: (https://www.npmjs.com/package/ngx-scrollbar)
-
 ### Search Filters:
    - npm i ng2-search-filter --save
    - Link: (https://www.npmjs.com/package/ng2-search-filter)
-
 ### Loader on service call
    - npm i ngx-ui-loader
    - Link: https://www.npmjs.com/package/ngx-ui-loader
-
 ### ngx-skeleton-loader
    - npm install ngx-skeleton-loader --save
    - Used for: Loading content (better ux)
@@ -111,67 +103,51 @@
 ### Toster :
    - npm install ngx-toastr --save
    - Link: (https://www.npmjs.com/package/ngx-toastr)
-   
 ### ngx-face-api (face detection)
    - ng add ngx-face-api-js
    - Link: https://ngx-face-api-js-demo.stackblitz.io/
-   
 ### Material Carusel
    - npm install @ngmodule/material-carousel --save
    - Link: https://gsr.dev/material2-carousel/
-
 ### Slider:
    - npm install --save ng5-slider
    - Link: (https://www.npmjs.com/package/ng5-slider)
-
 ### Emoji for angular
    - npm install @ctrl/ngx-emoji-mart
    - Link: https://www.npmjs.com/package/@ctrl/ngx-emoji-mart
    - Example link: https://github.com/ariang/EasyChat-scrummers
-
 ### spinner
    - npm install ngx-spinner --save
    - Link: (https://www.npmjs.com/package/ngx-spinner)
-
 ### ngx-gesture-password (Smart Lock)
    - Link: https://github.com/cipchk/ngx-gesture-password
    - Demo: https://cipchk.github.io/ngx-gesture-password/
-
 ### ReactiveFormsModule:
    - https://angular.io/api/forms/ReactiveFormsModule
-
 ### Google Recaptcha:
    - npm i ng-recaptcha --save
    - Link: (https://www.npmjs.com/package/ng-recaptcha)
-
 ### Angular Scroll Bar
    - npm i -S ngx-scrollbar @angular/cdk
    - Link: (https://www.npmjs.com/package/ngx-scrollbar)
-
 ### ngx-typed-text (Animation)
    - npm install ngx-typed-text --save
    - https://jghignatti.github.io/ngx-typed-text/
-   
 ### Pagination:
    - npm install ngx-pagination --save
    - Link: (https://www.npmjs.com/package/ngx-pagination)
-   
 ### Angular mat table crud
    -Link: https://github.com/marinantonio/angular-mat-table-crud
-
 ### NGX-Moment :
    - npm install --save moment ngx-moment
    - Link: https://www.npmjs.com/package/ngx-moment
    - used for: Using Moment JS as a Pipe Angular for date time 
-      
 ### Unobtrusive Toaster
    - npm install ngx-toastit --save
    - Link: https://monolizard.github.io/ngx-toastit/
-   
 ### ngx-beautiful charts
    - npm install ngx-beautiful-charts --save
    - Link: https://snowpu.github.io/ngx-beautiful-charts/
-
 ### Angular text input autocomplete
    - npm i angular-ng-autocomplete
    - Link : https://www.npmjs.com/package/angular-ng-autocomplete
@@ -179,11 +155,9 @@
 ### CSS Toolkit:
    - Link: https://tachyons.io/
       A lightweight CSS Toolkit that is good for your angular application.
-
 ### Data-driven Form Validators
    - npm install ngx-validate
    - Link: https://github.com/EdenWoo/ngx-validate
- 
 ### Json Server
    - npm install -g json-server <br>
   **To Run json server**
@@ -194,29 +168,24 @@
    - npm install http-server-spa -g
    - Usage: http-server-spa <directory> <fallback> <port>
    - Link: https://www.npmjs.com/package/http-server-spa
-
 ### ngx-lightbox
    - npm install --save ngx-lightbox
    - Used for: Imgage pop up 
    - Link: https://www.npmjs.com/package/ngx-lightbox
-
 ### ngx-link-preview
    - npm i ngx-link-preview
    - Used for: To show link preview
    - Link: https://www.npmjs.com/package/ngx-link-preview
-   
 ### Autocomplete user name (@ and username to get auto suggetions):
    - npm i ngx-input-autocomplete
    - https://www.npmjs.com/package/ngx-input-autocomplete
-   
 ### PWA App 
    - npm i @angular/pwa
    - Used for: To add PWA feature in angular web app
    - Link: https://www.npmjs.com/package/@angular/pwa
-
 ### ng-simple-slideshow
    - npm i ng-simple-slideshow
-   -Used for: Adding responsive image sliders/ car
+   - Used for: Adding responsive image sliders/ Carousel
    - Link: https://www.npmjs.com/package/ng-simple-slideshow
 ### Google Charts
    - npm i angular-google-charts
