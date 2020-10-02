@@ -9,7 +9,7 @@
    + [Awesome Packages](#Awesome-Packages)
    + [Web Tutorials](#Web-Tutorials )
    + [Video Tutorials](#Video-Tutorials)
-   + [Courses](#Courses
+   + [Courses](#Courses)
    + [Free Courses](#Free-Courses)
    + [Podcast for angular](#Podcast-for-angular)
    + [Blogs](#Blogs) 
