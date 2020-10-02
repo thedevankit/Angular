@@ -10,6 +10,7 @@
    + [Web Tutorials](#Web-Tutorials )
    + [Video Tutorials](#Video-Tutorials)
    + [Courses](#Courses)
+   + [Free Courses](#Free-Courses)
    + [Podcast for angular](#Podcast-for-angular)
    + [Blogs](#Blogs) 
    + [Projects with angular to contribute](#Projects-with-angular-to-contribute)
@@ -239,6 +240,8 @@
 
 5. [The Complete Angular Course: Beginner to Advanced ](https://www.udemy.com/course/the-complete-angular-master-class)
 
+## Free  Courses
+ 1. [Angular free cource in Edyoda](https://www.edyoda.com/course/1227?episode_id=113)
 
 ## Podcast for angular
    1. [Angular Air](https://angularair.com)
