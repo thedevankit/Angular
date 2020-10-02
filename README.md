@@ -10,6 +10,7 @@
    + [Web Tutorials](#Web-Tutorials )
    + [Video Tutorials](#Video-Tutorials)
    + [Courses](#Courses)
+   + [Free Courses](#Free-Courses)
    + [Podcast for angular](#Podcast-for-angular)
    + [Blogs](#Blogs) 
    + [Projects with angular to contribute](#Projects-with-angular-to-contribute)
@@ -239,6 +240,8 @@
 
 5. [The Complete Angular Course: Beginner to Advanced ](https://www.udemy.com/course/the-complete-angular-master-class)
 
+## Free  Courses
+ 1. [Angular free cource in Edyoda](https://www.edyoda.com/course/1227?episode_id=113)
 
 ## Podcast for angular
    1. [Angular Air](https://angularair.com)
@@ -252,6 +255,7 @@
    5. [Principles For Better, Cleaner Code](https://dev.to/x-team/6-principles-to-for-better-cleaner-code-1j1j?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
    6. [Learn Angular 8 Step By Step in 10 Days ](https://www.c-sharpcorner.com/article/learn-angular-8-step-by-step-in-10-days-day-1/)
    7. [angular-cheat-sheet](https://medium.com/@onejohi/angular-6-cheat-sheet-b36e04bf008a)
+   8. [Crud operation using angular 8/9](https://www.techiediaries.com/angular/angular-9-8-crud-example-and-tutorial/)
 
 ## Angular Quick Cheatsheet
    1. [angular-cheat-sheet](https://malcoded.com/angular-cheat-sheet/)
