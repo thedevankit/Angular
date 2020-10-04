@@ -1,8 +1,8 @@
 #  Angular Notes/Cheatsheet and Learning Kit
+![alt text](angular-header.png)
+
 > Click :star: if you like the project. Pull Request are highly appreciated. Follow me [@thedevankit](https://twitter.com/thedevankit) for technical updates.
 
-
-![alt text](angular-header.png)
 
 ## Contents:
    + [Installation steps and basic](#Installing-Angular-CLI)
