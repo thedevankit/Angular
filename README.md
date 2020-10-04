@@ -1,5 +1,7 @@
 #  Angular Notes/Cheatsheet and Learning Kit
 [![HitCount](http://hits.dwyl.com/thedevankit/angular.svg)](http://hits.dwyl.com/thedevankit/angular)
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@thedevankit](https://twitter.com/thedevankit) for technical updates.
+
 
 ![alt text](angular-header.png)
 
