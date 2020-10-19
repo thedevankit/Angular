@@ -80,6 +80,10 @@
 ### Components and Material Design for Angular
 - ng add @angular/material
 - Link:  (https://www.npmjs.com/package/@angular/material)
+
+### NGX Scanner
+   - https://github.com/zxing-js/ngx-scanner
+   - Info: Add support for QR code scanner in web app.
 ### Jquery:
    - Installation steps:
         Add Jquery js before bootstrap js in angular.json  at style and script.
