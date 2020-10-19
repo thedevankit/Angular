@@ -18,6 +18,7 @@
    + [Angular common errors and features](#Angular-common-errors-and-features)
    + [Trends in web technology](#Trends-in-web-technology)
    + [Useful Code snippet](/UsefulCode)
+   + [Interview Questions](#Interview)
    
 ### Installing Angular CLI:
     Angular-CLI: npm install -g @angular/cli
@@ -315,7 +316,8 @@
  
  12. [encrypt-the-string-in-typescript-and-decrypt-in-c-sharp](https://stackoverflow.com/questions/41671267/encrypt-the-string-in-typescript-and-decrypt-in-c-sharp-using-advanced-encryptio)
 
-
+## Interview 
+   1. [Angular Interview Questions](https://hackr.io/blog/angular-interview-questions)
 
 ## How can I support / Contributing
    Your contributions to the repo are welcome. For major changes, please open an issue first to discuss what you would like to change.
