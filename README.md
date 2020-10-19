@@ -318,6 +318,8 @@
 
 ## Interview 
    1. [Angular Interview Questions](https://hackr.io/blog/angular-interview-questions)
+   2. [50-top-angular-interview-questions](https://dzone.com/articles/50-top-angular-interview-questions-amp-answers)
+   3. [Top-angularjs-interview-questions](https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions-2016/)
 
 ## How can I support / Contributing
    Your contributions to the repo are welcome. For major changes, please open an issue first to discuss what you would like to change.
