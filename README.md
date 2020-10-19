@@ -203,9 +203,9 @@
    - Documentation: [devrandom-official doc](https://www.devrandom.it/software/ng2-google-charts/additional-documentation/formatters.html) 
 
 ## Awesome Packages
-
-### [Export To Csv](https://github.com/javiertelioz/angular2-csv)
-### [Pdfjs-viewer](https://www.npmjs.com/package/ng2-pdfjs-viewer)
+>Packages to export data in different file type.
+   1. [Export To Csv](https://github.com/javiertelioz/angular2-csv)
+   2. [Pdfjs-viewer](https://www.npmjs.com/package/ng2-pdfjs-viewer)
    
 ## Web Tutorials 
 1. https://angular.io/start
