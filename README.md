@@ -312,6 +312,8 @@
  10. [48-answers-on-stack-overflow-to-the-most-popular-angular-questions](https://www.freecodecamp.org/news/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0/)
  
  11. [angular-2-google-docs-viewer](https://stackoverflow.com/questions/44367577/angular-2-google-docs-viewer)
+ 
+ 12. [encrypt-the-string-in-typescript-and-decrypt-in-c-sharp](https://stackoverflow.com/questions/41671267/encrypt-the-string-in-typescript-and-decrypt-in-c-sharp-using-advanced-encryptio)
 
 
 
