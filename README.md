@@ -195,6 +195,10 @@
    - npm i ng-simple-slideshow
    - Used for: Adding responsive image sliders/ Carousel
    - Link: https://www.npmjs.com/package/ng-simple-slideshow
+### Image Slider2
+   - npm i ng-image-slider
+   - Demo Link: https://sanjayv.github.io/ng-image-slider/
+   - Link: https://www.npmjs.com/package/ng-image-slider
 ### Google Charts
    - npm i angular-google-charts
    - Used for: To add google charts in web app
@@ -293,28 +297,20 @@
    **(How to solve)**
 
  1. [Angular 7 app getting CORS error from angular client](https://stackoverflow.com/questions/53473754/angular-7-app-getting-cors-error-from-angular-client)
-
  2. [Angular cors error](https://www.google.com/search?q=cors+angular+7&oq=cors+angular+&aqs=chrome.1.69i57j0l5.4479j0j4&sourceid=chrome&ie=UTF-8)
-
  3. [Angular-jwt](https://angular-academy.com/angular-jwt/)
-
  4. [Angular-forms-and-validations](https://angular-templates.io/tutorials/about/angular-forms-and-validations)
-
- 5. [Responsive bootstrap tabs](https://codepen.io/devben/pen/EaLdeJ?editors=0010)
- 
- 6. [Uploading-files-in-angular2](https://nehalist.io/uploading-files-in-angular2/)
- 
- 7. [Setup-a-proxy-for-api-calls](https://medium.com/better-programming/setup-a-proxy-for-api-calls-for-your-angular-cli-app-6566c02a8c4d?)
- 
- 8. [404-error-occur-when-i-refresh-through-the-browser](https://stackoverflow.com/questions/35284988/angular-2-404-error-occur-when-i-refresh-through-the-browser)
- 
- 9. [How-to-get-route-path-parameters-in-non-routed-angular-components](https://medium.com/@tomastrajan/how-to-get-route-path-parameters-in-non-routed-angular-components-32fc90d9cb52)
- 
- 10. [48-answers-on-stack-overflow-to-the-most-popular-angular-questions](https://www.freecodecamp.org/news/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0/)
- 
- 11. [angular-2-google-docs-viewer](https://stackoverflow.com/questions/44367577/angular-2-google-docs-viewer)
- 
- 12. [encrypt-the-string-in-typescript-and-decrypt-in-c-sharp](https://stackoverflow.com/questions/41671267/encrypt-the-string-in-typescript-and-decrypt-in-c-sharp-using-advanced-encryptio)
+ 5. [Responsive bootstrap tabs](https://codepen.io/devben/pen/EaLdeJ?editors=0010) 
+ 6. [Uploading-files-in-angular2](https://nehalist.io/uploading-files-in-angular2/) 
+ 7. [Setup-a-proxy-for-api-calls](https://medium.com/better-programming/setup-a-proxy-for-api-calls-for-your-angular-cli-app-6566c02a8c4d?) 
+ 8. [404-error-occur-when-i-refresh-through-the-browser](https://stackoverflow.com/questions/35284988/angular-2-404-error-occur-when-i-refresh-through-the-browser) 
+ 9. [How-to-get-route-path-parameters-in-non-routed-angular-components](https://medium.com/@tomastrajan/how-to-get-route-path-parameters-in-non-routed-angular-components-32fc90d9cb52) 
+ 10. [48-answers-on-stack-overflow-to-the-most-popular-angular-questions](https://www.freecodecamp.org/news/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0/) 
+ 11. [angular-2-google-docs-viewer](https://stackoverflow.com/questions/44367577/angular-2-google-docs-viewer) 
+ 12. [encrypt-the-string-in-typescript-and-decrypt-in-c-sharp](https://stackoverflow.com/questions/41671267/encrypt-the-string-in-typescript-and-decrypt-in-c-sharp-using-advanced-encryptio) 
+ 13. [anchorscroll-on-static-page-with-angular](https://stackoverflow.com/questions/54554991/anchorscroll-on-static-page-with-angular-7-x-x)
+ 14. [using sqlite as database for angular v7](https://stackoverflow.com/questions/55438664/using-sqlite-as-database-for-angular-v7)
+ 15. [What is the proper use of an EventEmitter](https://stackoverflow.com/questions/36076700/what-is-the-proper-use-of-an-eventemitter)
 
 ## Interview 
    1. [Angular Interview Questions](https://hackr.io/blog/angular-interview-questions)
