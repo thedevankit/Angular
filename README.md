@@ -336,6 +336,13 @@
       Details: https://www.npmjs.com/package/source-map-explorer/v/1.7.0
       
       How to use: source-map-explorer foo.min.js(generated js file)
+      - On Top of this we have 
+         - https://www.npmjs.com/package/@ngx-builders/analyze
+            **Run the source-map-explorer with zero configuration.**
+         - ng add @ngx-builders/analyze --project={projectName}
+      
+   3. **NGX-Quick Link**
+      It provides router preloading strategy which automatically downloads the lazy-loaded modules associated with all the visible links on the screen.
 
 ## How can I support / Contributing
    Your contributions to the repo are welcome. For major changes, please open an issue first to discuss what you would like to change.
