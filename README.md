@@ -18,6 +18,7 @@
    + [Angular common errors and features](#Angular-common-errors-and-features)
    + [Trends in web technology](#Trends-in-web-technology)
    + [Useful Code snippet](/UsefulCode)
+   + [Angular Optimization and Hacks](/Angular-Optimization-And-Hacks)
    + [Interview Questions](#Interview)
    
 ### Installing Angular CLI:
@@ -316,6 +317,13 @@
    1. [Angular Interview Questions](https://hackr.io/blog/angular-interview-questions)
    2. [50-top-angular-interview-questions](https://dzone.com/articles/50-top-angular-interview-questions-amp-answers)
    3. [Top-angularjs-interview-questions](https://www.edureka.co/blog/interview-questions/top-angularjs-interview-questions-2016/)
+   
+## Angular Optimization And Hacks
+   1. Creating Modules for lazy loading
+   Generates Module, component and route for the component.
+      ```
+      ng generate module --module aap.module --route component component_name
+      ```
 
 ## How can I support / Contributing
    Your contributions to the repo are welcome. For major changes, please open an issue first to discuss what you would like to change.
