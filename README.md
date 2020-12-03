@@ -320,16 +320,20 @@
    
 ## Angular Optimization And Hacks
    1. Creating Modules for lazy loading
-      Generates Module, component and route for the component. 
+      Generates Module, component and route for the component.
+      
       ```
          ng generate module --module aap.module --route component component_name
       ```
-   2. Optimization of angular app 
-      Angular apps can be optimized by removing the unused modules and references. 
-      That can be done by setting sourceMap: True and NameChunks: true
+      
+   2. Optimization of angular app:
+      Angular apps can be optimized by removing the unused modules and references.
+      
+      That can be done by setting sourceMap: True and NameChunks: true      
       Using **source-map-explorer** we can verify the bundle size and optimized it.
-         `npm i source-map-explorer@1.7.0`
+          `npm i source-map-explorer@1.7.0`         
       Details: https://www.npmjs.com/package/source-map-explorer/v/1.7.0
+      How to use: source-map-explorer foo.min.js(generated js file)
 
 ## How can I support / Contributing
    Your contributions to the repo are welcome. For major changes, please open an issue first to discuss what you would like to change.
