@@ -332,7 +332,9 @@
       That can be done by setting sourceMap: True and NameChunks: true      
       Using **source-map-explorer** we can verify the bundle size and optimized it.
           `npm i source-map-explorer@1.7.0`         
+          
       Details: https://www.npmjs.com/package/source-map-explorer/v/1.7.0
+      
       How to use: source-map-explorer foo.min.js(generated js file)
 
 ## How can I support / Contributing
