@@ -344,6 +344,9 @@
    3. **NGX-Quick Link**
       It provides router preloading strategy which automatically downloads the lazy-loaded modules associated with all the visible links on the screen.
 
+   4. **Angular Project Architecture**
+      - [angular-folder-structure-examples](https://github.com/jcyovera/angular-folder-structure-examples)
+
 ## How can I support / Contributing
    Your contributions to the repo are welcome. For major changes, please open an issue first to discuss what you would like to change.
    
