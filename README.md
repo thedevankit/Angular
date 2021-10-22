@@ -18,6 +18,7 @@
    + [Angular common errors and features](#Angular-common-errors-and-features)
    + [Trends in web technology](#Trends-in-web-technology)
    + [Useful Code snippet](/UsefulCode)
+   + [Code snippet for from validation](/validation/validation.md)
    + [Angular Optimization and Hacks](#Angular-Optimization-And-Hacks)
    + [Interview Questions](#Interview)
    
