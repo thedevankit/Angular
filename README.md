@@ -77,6 +77,10 @@
 - Installation steps:
         Add Bootstrap js and bootstrap css in angular.json  at style and script.
 ### Ng Bootsttrap
+- npm install @ngxs/store --save
+- Documentation : https://www.ngxs.io
+- Practical video tutorial : https://www.youtube.com/watch?v=4gkVp9OHpi0
+### NGXS State Management Pattern + Library
 - npm install --save @ng-bootstrap/ng-bootstrap
 - Link : https://ng-bootstrap.github.io/#/home
 ### Components and Material Design for Angular
