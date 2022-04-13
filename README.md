@@ -211,6 +211,11 @@
    - Link: https://www.npmjs.com/package/angular-google-charts
    - Demo: [Demo code](https://stackblitz.com/edit/angular-google-chart?file=src%2Fapp%2Fpie-chart.component.ts)
    - Documentation: [devrandom-official doc](https://www.devrandom.it/software/ng2-google-charts/additional-documentation/formatters.html) 
+### Infinite scroll / Data load on mouse scroll
+   - npm install ngx-infinite-scroll --save
+   - Used for: To load data from apis on scroll
+   - Link: https://www.npmjs.com/package/ngx-infinite-scroll
+   - Demo: [ngx infinite scroll demo code](https://stackblitz.com/edit/ngx-infinite-scroll)
 
 ## Awesome Packages
 >Packages to export data in different file type.
