@@ -23,54 +23,151 @@
    + [Interview Questions](#Interview)
    
 ### Installing Angular CLI:
-    Angular-CLI: npm install -g @angular/cli
 
-### To create Your First Angular App:
-    ng new newapp
-     
-  Eg:
-     
-```sh
-        $  ng new proj_name
+```shell
+npm install -g @angular/cli
 ```
 
+### Useful Commands:
 
+The documentation for the command ist linked on the task description.
 
-###  To Run an Angular Application:
-    1) ng -s -o (Open angular app in browser.)
-    2) ng -s (Run the angular app.)
-    3) ng serve --open --port port_number (Open angular app at specified port number.)
-    
-   Eg:
-```sh
-        $  ng -s -o
+Parameters like `<NAME>` should be replaced with the actual names of the element.
+
+<table>
+<tr>
+<td> Task </td>
+<td> Command </td> 
+<td> Popular Parameters </td>
+</tr>
+<tr>
+<td>
+
+[Create new Application](https://angular.io/cli/new)
+</td>
+<td>
+
+```shell
+
+ng new <PROJECT_NAME>
 ```
+</td>
+<td>
 
+`--directory` Generates the new application in the specified directory.
+</td>
+</tr>
+<tr>
+<td>
 
-### To Generate Components:
-    1) ng generate component component name
-    2) ng g c component name
+[Run an Angular Application](https://angular.io/cli/serve)
+</td>
+<td>
 
+```shell
+ng serve
+ng s (Run the angular app.)
+ng s -o (Open angular app in browser.)
+```
+</td>
+<td>
 
-### To generate  module 
-    ng generate module service module name  
-    ng g module module name
+`--open`, `-o` Opens the application in the default browser.
 
+`--port <NUMBER>`
+</td>
+</tr>
+<tr>
+<td>
 
+[Generate Module](https://angular.io/cli/generate#module-command)
+</td>
+<td>
 
-### To generate interface:
-     ng generate interface interface name
-     ng g interface interface name
+```shell
+ng generate module <NAME> 
+ng g m <NAME>
+```
+</td>
+<td>
 
+`--module`, `-m` Specifies the declaring ngModule
+</td>
+</tr>
+<tr>
+<td>
 
-### To generate service:
-    ng generate service service name
-    ng g service service name   
+[Generate Component](https://angular.io/cli/generate#component-command)
+</td>
+<td>
 
+```shell
+ng generate component <NAME> 
+ng g c <NAME>
+```
+</td>
+<td>
 
-###  To generate guard:
-    ng generate guard guard name
-    ng g guard guard name
+`--change-detection`, `-c` Set the change detection strategy of the component. Possible values: `Default | OnPush`
+
+`--display-block`, `-b` Adds the style `:host{display:block}`
+
+`--project` Set the target module to add the component to.
+</td>
+</tr>
+<tr>
+<td>
+
+[Generate Interface](https://angular.io/cli/generate#interface)
+</td>
+<td>
+
+```shell
+ng generate interface <NAME> <TYPE>
+ng g i <NAME> <TYPE>
+```
+</td>
+<td>
+
+The `type` parameter defines part of the file name `name.type.ts`
+</td>
+</tr>
+<tr>
+<td>
+
+[Generate Service](https://angular.io/cli/generate#service)
+</td>
+<td>
+
+```shell
+ng generate service <NAME>
+ng g s <NAME>
+```
+</td>
+<td>
+
+`--skip-tests` Does not crete `.spec.ts` file.
+</td>
+</tr>
+<tr>
+<td>
+
+[Generate Guard](https://angular.io/cli/generate#guard)
+</td>
+<td>
+
+```shell
+ng generate guard <NAME>
+ng g g <NAME>
+```
+</td>
+<td>
+
+`--skip-tests` Does not crete `.spec.ts` file.
+</td>
+</tr>
+</table>
+
     
 ## Important Packages
 ### Bootstrap:
