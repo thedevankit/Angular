@@ -1,6 +1,6 @@
 # Validation's for angular reactive froms
 
-## Validation for from in angular 
+## Validation for from in angular
 
 ### Steps:
 - Step 1. Create a function for custom validation of data in from. E.g like below
@@ -19,7 +19,7 @@ export function NoWhiteSpaceAllowedValidator(control: FormControl): { [key: stri
   private validationMessages: { [key: string]: { [key: string]: string } };
   private groupValidationMessages: { [key: string]: string };
 ```
-- Step 3.  Inside constructor create a object of validation messages  
+- Step 3.  Inside constructor create a object of validation messages
 ```ts
 // Here validationMessages is a private variable which we have declared 
 this.validationMessages = {
@@ -40,7 +40,7 @@ this.validationMessages = {
     // This is group validation for the form 
     { validators: NoWhiteSpaceAllowedValidator });
 ````
-- Step 5. Adding function to show validation messages 
+- Step 5. Adding function to show validation messages
 ```ts 
 public ValidationMessagesForController(control: string): string[] {
     const messages = [];
@@ -67,7 +67,7 @@ public GroupValidationMessages(form: FormGroup): string[] {
     return messages;
   }
 ```
-- Step 6. Adding validator in html form 
+- Step 6. Adding validator in html form
 ```html
  <input type="text" placeholder="Enter you name" formControlName="name">
  <!-- Validator messages showing to users -->
