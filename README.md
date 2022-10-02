@@ -5,22 +5,24 @@
 
 
 ## Contents:
-   + [Installation steps and basic](#Installing-Angular-CLI)
-   + [Important Packages](#Important-Packages)
-   + [Awesome Packages](#Awesome-Packages)
-   + [Web Tutorials](#Web-Tutorials )
-   + [Video Tutorials](#Video-Tutorials)
-   + [Courses](#Courses)
-   + [Free Courses](#Free-Courses)
-   + [Podcast for angular](#Podcast-for-angular)
-   + [Blogs](#Blogs) 
-   + [Projects with angular to contribute](#Projects-with-angular-to-contribute)
-   + [Angular common errors and features](#Angular-common-errors-and-features)
-   + [Trends in web technology](#Trends-in-web-technology)
+   + [Installation](#installing-angular-cli)
+   + [Useful Commands](#useful-commands)
+   + [Important Packages](#important-packages)
+   + [Awesome Packages](#awesome-packages)
+   + [Web Tutorials](#web-tutorials )
+   + [Video Tutorials](#video-tutorials)
+   + [Courses](#courses)
+   + [Free Courses](#free-courses)
+   + [Podcast for angular](#podcast-for-angular)
+   + [Blogs](#blogs) 
+   + [Projects with angular to contribute](#projects-with-angular-to-contribute)
+   + [Angular common errors and features](#angular-common-errors-and-features)
+   + [Trends in web technology](#trends-in-web-technology)
    + [Useful Code snippet](/UsefulCode)
    + [Code snippet for from validation](/validation/validation.md)
-   + [Angular Optimization and Hacks](#Angular-Optimization-And-Hacks)
-   + [Interview Questions](#Interview)
+   + [Interview Questions](#interview)
+   + [Angular Optimization and Hacks](#angular-optimization-and-hacks)
+   + [Contributing](#how-can-i-support--contributing)
    
 ### Installing Angular CLI:
     Angular-CLI: npm install -g @angular/cli
@@ -262,7 +264,7 @@
 
 5. [The Complete Angular Course: Beginner to Advanced ](https://www.udemy.com/course/the-complete-angular-master-class)
 
-## Free  Courses
+## Free Courses
  1. [Angular free cource in Edyoda](https://www.edyoda.com/course/1227?episode_id=113)
 
 ## Podcast for angular
@@ -358,8 +360,5 @@
       - [angular-folder-structure-examples](https://github.com/jcyovera/angular-folder-structure-examples)
 
 ## How can I support / Contributing
-   Your contributions to the repo are welcome. For major changes, please open an issue first to discuss what you would like to change.
-   
- - **Please make sure you are adding valuable content to the file.**
- - **Star this GitHub Repo**
- - **Create pull requests, submit bugs, suggest new links**
+
+Please refer to the [contributing](/CONTRIBUTING.md) file.
