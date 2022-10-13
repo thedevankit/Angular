@@ -1,4 +1,11 @@
 # Contribution Guidelines
+Your contributions to the repo are welcome. 
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+- **Please make sure you are adding valuable content to the file.**
+- **Star this GitHub Repo**
+- **Create pull requests, submit bugs, suggest new links**
 
 Please ensure your pull request adheres to the following guidelines:
 
