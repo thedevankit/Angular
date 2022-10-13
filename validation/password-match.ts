@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FormGroup } from '@angular/forms';
 
 export function confirmPassword(form: FormGroup): { [key: string]: boolean } | null {

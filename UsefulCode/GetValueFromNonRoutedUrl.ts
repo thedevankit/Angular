@@ -1,4 +1,5 @@
-userAccountActivate(){
+// @ts-nocheck
+function userAccountActivate(){
     this.router.events.subscribe((event: any) => {
       if (event instanceof NavigationEnd) {
       while (this.route.firstChild) {
