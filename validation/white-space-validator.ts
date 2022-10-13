@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { FormControl } from '@angular/forms';
 
 export function noWhiteSpaceValidator(control: FormControl): { [key: string]: boolean } | null {

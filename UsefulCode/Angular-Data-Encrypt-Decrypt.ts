@@ -1,12 +1,13 @@
-//Inside imports of your TS file include 
+// @ts-nocheck
+//Inside imports of your TS file include
 import * as CryptoJS from 'crypto-js';
 
 // Declare this key and iv values in declaration
-private key = CryptoJS.enc.Utf8.parse('4512631236589784');
-private iv = CryptoJS.enc.Utf8.parse('4512631236589784');
+const key = CryptoJS.enc.Utf8.parse('4512631236589784');
+const iv = CryptoJS.enc.Utf8.parse('4512631236589784');
 
 // Methods for the encrypt and decrypt Using AES
-encryptUsingAES256() {
+function encryptUsingAES256() {
     var encrypted = CryptoJS.AES.encrypt(CryptoJS.enc.Utf8.parse(JSON.stringify("Your Json Object data or string")), this.key, {
         keySize: 128 / 8,
         iv: this.iv,
@@ -18,7 +19,7 @@ encryptUsingAES256() {
     return encrypted;
 }
 
-decryptUsingAES256(decString) {
+function decryptUsingAES256(decString) {
     var decrypted = CryptoJS.AES.decrypt(decString, this.key, {
         keySize: 128 / 8,
         iv: this.iv,

@@ -1,3 +1,4 @@
+// @ts-nocheck
 // Angular Imports
 import { Pipe, PipeTransform } from '@angular/core';
 
