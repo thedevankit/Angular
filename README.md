@@ -177,11 +177,11 @@ ng g g <NAME>
 - Installation steps:
         Add Bootstrap js and bootstrap css in angular.json  at style and script.
 ### NGXS State Management Pattern + Library
-- npm install @ngxs/store --save
+- `npm install @ngxs/store --save`
 - Documentation : https://www.ngxs.io
 - Practical video tutorial : https://www.youtube.com/watch?v=4gkVp9OHpi0
 ### Ng Bootsttrap
-- npm install --save @ng-bootstrap/ng-bootstrap
+- `npm install --save @ng-bootstrap/ng-bootstrap`
 - Link : https://ng-bootstrap.github.io/#/home
 ### Components and Material Design for Angular
 - ng add @angular/material
@@ -195,42 +195,42 @@ ng g g <NAME>
         Add Jquery js before bootstrap js in angular.json  at style and script.
    - Link: (https://www.npmjs.com/package/jquery) 
 ### Multiple select 
-   - npm install --save @ng-select/ng-select
+   - `npm install --save @ng-select/ng-select`
    - https://www.npmjs.com/package/@ng-select/ng-select
 ### Image slider:
-   - npm install angular-image-slider --save
+   - `npm install angular-image-slider --save`
    - Link: (https://www.npmjs.com/package/angular-image-slider)
 ### Angular Custom Scrollbar:
-   - npm i -S ngx-scrollbar @angular/cdk
+   - `npm i -S ngx-scrollbar @angular/cdk`
    - Link: (https://www.npmjs.com/package/ngx-scrollbar)
 ### Search Filters:
-   - npm i ng2-search-filter --save
+   - `npm i ng2-search-filter --save`
    - Link: (https://www.npmjs.com/package/ng2-search-filter)
 ### Loader on service call
-   - npm i ngx-ui-loader
+   - `npm i ngx-ui-loader`
    - Link: https://www.npmjs.com/package/ngx-ui-loader
 ### ngx-skeleton-loader
-   - npm install ngx-skeleton-loader --save
+   - `npm install ngx-skeleton-loader --save`
    - Used for: Loading content (better ux)
    - Link: https://github.com/willmendesneto/ngx-skeleton-loader 
-### Toster :
-   - npm install ngx-toastr --save
+### Toster
+   - `npm install ngx-toastr --save`
    - Link: (https://www.npmjs.com/package/ngx-toastr)
 ### ngx-face-api (face detection)
    - ng add ngx-face-api-js
    - Link: https://ngx-face-api-js-demo.stackblitz.io/
 ### Material Carusel
-   - npm install @ngmodule/material-carousel --save
+   - `npm install @ngmodule/material-carousel --save`
    - Link: https://gsr.dev/material2-carousel/
 ### Slider:
-   - npm install --save ng5-slider
+   - `npm install --save ng5-slider`
    - Link: (https://www.npmjs.com/package/ng5-slider)
 ### Emoji for angular
-   - npm install @ctrl/ngx-emoji-mart
+   - `npm install @ctrl/ngx-emoji-mart`
    - Link: https://www.npmjs.com/package/@ctrl/ngx-emoji-mart
    - Example link: https://github.com/ariang/EasyChat-scrummers
 ### spinner
-   - npm install ngx-spinner --save
+   - `npm install ngx-spinner --save`
    - Link: (https://www.npmjs.com/package/ngx-spinner)
 ### ngx-gesture-password (Smart Lock)
    - Link: https://github.com/cipchk/ngx-gesture-password
@@ -238,87 +238,87 @@ ng g g <NAME>
 ### ReactiveFormsModule:
    - https://angular.io/api/forms/ReactiveFormsModule
 ### Google Recaptcha:
-   - npm i ng-recaptcha --save
+   - `npm i ng-recaptcha --save`
    - Link: (https://www.npmjs.com/package/ng-recaptcha)
 ### Angular Scroll Bar
-   - npm i -S ngx-scrollbar @angular/cdk
+   - `npm i -S ngx-scrollbar @angular/cdk`
    - Link: (https://www.npmjs.com/package/ngx-scrollbar)
 ### ngx-typed-text (Animation)
-   - npm install ngx-typed-text --save
+   - `npm install ngx-typed-text --save`
    - https://jghignatti.github.io/ngx-typed-text/
 ### Pagination:
-   - npm install ngx-pagination --save
+   - `npm install ngx-pagination --save`
    - Link: (https://www.npmjs.com/package/ngx-pagination)
 ### Angular mat table crud
-   -Link: https://github.com/marinantonio/angular-mat-table-crud
+   - Link: https://github.com/marinantonio/angular-mat-table-crud
 ### NGX-Moment :
-   - npm install --save moment ngx-moment
+   - `npm install --save moment ngx-moment`
    - Link: https://www.npmjs.com/package/ngx-moment
    - used for: Using Moment JS as a Pipe Angular for date time 
 ### Unobtrusive Toaster
-   - npm install ngx-toastit --save
+   - `npm install ngx-toastit --save`
    - Link: https://monolizard.github.io/ngx-toastit/
 ### ngx-beautiful charts
-   - npm install ngx-beautiful-charts --save
+   - `npm install ngx-beautiful-charts --save`
    - Link: https://snowpu.github.io/ngx-beautiful-charts/
 ### Angular text input autocomplete
-   - npm i angular-ng-autocomplete
+   - `npm i angular-ng-autocomplete`
    - Link : https://www.npmjs.com/package/angular-ng-autocomplete
    - Example Link: https://stackblitz.com/edit/angular-ng-autocomplete?file=src%2Fapp%2Fapp.module.ts
 ### CSS Toolkit:
    - Link: https://tachyons.io/
       A lightweight CSS Toolkit that is good for your angular application.
 ### Data-driven Form Validators
-   - npm install ngx-validate
+   - `npm install ngx-validate`
    - Link: https://github.com/EdenWoo/ngx-validate
 ### Json Server
-   - npm install -g json-server <br>
+   - `npm install -g json-server <br>`
   **To Run json server**
       1. json-server --watch db.json
       2. json-server --watch db.json --port 3004
       - Link: https://www.npmjs.com/package/json-server
 ### http-server-spa
-   - npm install http-server-spa -g
+   - `npm install http-server-spa -g`
    - Usage: http-server-spa <directory> <fallback> <port>
    - Link: https://www.npmjs.com/package/http-server-spa
 ### ngx-lightbox
-   - npm install --save ngx-lightbox
-   - Used for: Imgage pop up 
+   - `npm install --save ngx-lightbox`
+   - Used for: Image pop up 
    - Link: https://www.npmjs.com/package/ngx-lightbox
 ### ngx-link-preview
-   - npm i ngx-link-preview
+   - `npm i ngx-link-preview`
    - Used for: To show link preview
    - Link: https://www.npmjs.com/package/ngx-link-preview
-### Autocomplete user name (@ and username to get auto suggetions):
-   - npm i ngx-input-autocomplete
+### Autocomplete user name (@ and username to get auto suggestions):
+   - `npm i ngx-input-autocomplete`
    - https://www.npmjs.com/package/ngx-input-autocomplete
 ### PWA App 
-   - npm i @angular/pwa
+   - `npm i @angular/pwa`
    - Used for: To add PWA feature in angular web app
    - Link: https://www.npmjs.com/package/@angular/pwa
 ### ng-simple-slideshow
-   - npm i ng-simple-slideshow
+   - `npm i ng-simple-slideshow`
    - Used for: Adding responsive image sliders/ Carousel
    - Link: https://www.npmjs.com/package/ng-simple-slideshow
 ### Image Slider2
-   - npm i ng-image-slider
+   - `npm i ng-image-slider`
    - Demo Link: https://sanjayv.github.io/ng-image-slider/
    - Link: https://www.npmjs.com/package/ng-image-slider
 ### Google Charts
-   - npm i angular-google-charts
+   - `npm i angular-google-charts`
    - Used for: To add google charts in web app
    - Link: https://www.npmjs.com/package/angular-google-charts
    - Demo: [Demo code](https://stackblitz.com/edit/angular-google-chart?file=src%2Fapp%2Fpie-chart.component.ts)
    - Documentation: [devrandom-official doc](https://www.devrandom.it/software/ng2-google-charts/additional-documentation/formatters.html) 
 ### Infinite scroll / Data load on mouse scroll
-   - npm install ngx-infinite-scroll --save
+   - `npm install ngx-infinite-scroll --save`
    - Used for: To load data from apis on scroll
    - Link: https://www.npmjs.com/package/ngx-infinite-scroll
    - Demo: [ngx infinite scroll demo code](https://stackblitz.com/edit/ngx-infinite-scroll)
 
 ## Awesome Packages
 >Packages to export data in different file type.
-   1. [Export To Csv](https://github.com/javiertelioz/angular2-csv)
+   1. [Export To CSV](https://github.com/javiertelioz/angular2-csv)
    2. [Pdfjs-viewer](https://www.npmjs.com/package/ng2-pdfjs-viewer)
    
 ## Web Tutorials 
@@ -392,7 +392,7 @@ ng g g <NAME>
    7. [Angular-chat-sentiment-analysis](https://pusher.com/tutorials/angular-chat-sentiment-analysis)
    8. [Music-web-player](https://github.com/naveedgol/music-web-player)
 
-## Tools to combine with your angular application ()
+## Tools to combine with your angular application
    1. [GraphQL](https://www.apollographql.com/docs/angular/)
       - Great for big scope application and multiple endpoints.
    2. [RSCSS](https://rscss.io)
