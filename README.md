@@ -316,6 +316,12 @@ ng g g <NAME>
    - Link: https://www.npmjs.com/package/ngx-infinite-scroll
    - Demo: [ngx infinite scroll demo code](https://stackblitz.com/edit/ngx-infinite-scroll)
 
+### Webcam component
+   - npm install --save ngx-webcam
+   - Used for: To load data from apis on scroll
+   - Link: https://www.npmjs.com/package/ngx-webcam
+   - Demo: [ngx-webcam demo](https://basst314.github.io/ngx-webcam/?)
+
 ## Awesome Packages
 >Packages to export data in different file type.
    1. [Export To Csv](https://github.com/javiertelioz/angular2-csv)
