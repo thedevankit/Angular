@@ -335,25 +335,27 @@ ng g g <NAME>
 5. [angular-beginners-guide](https://malcoded.com/posts/angular-beginners-guide/)
 6. [angular-forms-and-validations](https://angular-templates.io/tutorials/about/angular-forms-and-validations)
 ## Video Tutorials
-1. [Angular 8 Tutorial by Codevolution](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+1. [Mastering Advanced Angular](https://www.youtube.com/playlist?list=PLoC8Q0moRTSgYzCoo5fklvPT40KQVUorx)
 
-2. [Angular 7 Full Tutorial in Hindi](https://www.youtube.com/watch?v=SuZa2nv24HE&list=PL_qizAfcpJ-MTpfAPtayiKeJ0OexCcxvh)
+2. [Angular 8 Tutorial by Codevolution](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 
-3. [Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A)
+3. [Angular 7 Full Tutorial in Hindi](https://www.youtube.com/watch?v=SuZa2nv24HE&list=PL_qizAfcpJ-MTpfAPtayiKeJ0OexCcxvh)
 
-4. [Angular Crash Course - 2019](https://www.youtube.com/watch?v=Fdf5aTYRW0E)
+4. [Angular University](https://www.youtube.com/channel/UC3cEGKhg3OERn-ihVsJcb7A)
 
-5. [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
+5. [Angular Crash Course - 2019](https://www.youtube.com/watch?v=Fdf5aTYRW0E)
 
-6. [Angular Tutorial for Beginners: Learn Angular from Scratch | Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)
+6. [kudvenkat](https://www.youtube.com/channel/UCCTVrRB5KpIiK6V2GGVsR1Q)
 
-7. [Angular Material Tutorial](https://www.youtube.com/watch?v=bV8emCBmFHk&list=PLC3y8-rFHvwilEuCqFGTL5Gt5U6deIrsU)
+7. [Angular Tutorial for Beginners: Learn Angular from Scratch | Mosh](https://www.youtube.com/watch?v=k5E2AVpwsko)
 
-8. [Learn Angular 2,4,5 Online Training](https://www.youtube.com/watch?v=BGaPNvay5e8&list=PLd3UqWTnYXOk9-_CYxIy-Vayx3iV55QDt)
+8. [Angular Material Tutorial](https://www.youtube.com/watch?v=bV8emCBmFHk&list=PLC3y8-rFHvwilEuCqFGTL5Gt5U6deIrsU)
 
-9. [Angular Best Practices](https://www.youtube.com/playlist?list=PLLHU4eOoZH8rUC9cr-p9SkAAra7RuGwG7)
+9. [Learn Angular 2,4,5 Online Training](https://www.youtube.com/watch?v=BGaPNvay5e8&list=PLd3UqWTnYXOk9-_CYxIy-Vayx3iV55QDt)
 
-10. [Advanced Angular tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
+10. [Angular Best Practices](https://www.youtube.com/playlist?list=PLLHU4eOoZH8rUC9cr-p9SkAAra7RuGwG7)
+
+11. [Advanced Angular tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
 
 ## Courses
 
