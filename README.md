@@ -170,6 +170,20 @@ ng g g <NAME>
 </tr>
 </table>
 
+## Angular update from 9 to 14 or latest 
+```shell
+ng update  @angular/cli@10  @angular/cdk@10 @angular/core@10 @angular/common@10 @angular/forms@10 @angular/router@10 @angular/material@10 --force
+
+ng update  @angular/cli@11  @angular/cdk@11 @angular/core@11 @angular/common@11 @angular/forms@11 @angular/router@11 @angular/material@11 --force
+
+ng update  @angular/cli@12 @angular/cdk@12 @angular/core@12 @angular/common@12 @angular/forms@12 @angular/router@12 @angular/material@12 --force
+
+
+ng update  @angular/cli@13 @angular/cdk@13 @angular/core@13 @angular/common@13 @angular/forms@13 @angular/router@13 @angular/material@13 --force
+
+
+ng update  @angular/cli@14 @angular/cdk@14 @angular/core@14 @angular/common@14 @angular/forms@14 @angular/router@14 @angular/material@14 --force
+```
     
 ## Important Packages
 ### Bootstrap:
