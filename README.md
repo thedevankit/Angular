@@ -329,7 +329,11 @@ ng update  @angular/cli@14 @angular/cdk@14 @angular/core@14 @angular/common@14 @
    - Used for: To load data from apis on scroll
    - Link: https://www.npmjs.com/package/ngx-infinite-scroll
    - Demo: [ngx infinite scroll demo code](https://stackblitz.com/edit/ngx-infinite-scroll)
-
+### @ngneat/spectator
+   - `npm install @ngneat/spectator --save-dev`
+   - Used for: Making more readable, sleek unit testing by getting rid of boilerplates
+   - Link: https://ngneat.github.io/spectator/
+   - Demo: [NgNeat used in unit testing](https://stackblitz.com/edit/angular-testing-spectator?file=app%2Fhello.component.spec.ts,app%2Fapp.component.ts)
 ### Webcam component
    - npm install --save ngx-webcam
    - Used for: To load data from apis on scroll
@@ -370,6 +374,10 @@ ng update  @angular/cli@14 @angular/cdk@14 @angular/core@14 @angular/common@14 @
 10. [Angular Best Practices](https://www.youtube.com/playlist?list=PLLHU4eOoZH8rUC9cr-p9SkAAra7RuGwG7)
 
 11. [Advanced Angular tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
+
+12. [How to Unit Test in Angular](https://www.youtube.com/watch?v=c57llB8QA2E&t=2s)
+
+13. [How E2E Tests can drive Angular Testing Approach](https://www.youtube.com/watch?v=qdwcmSOfdZY&t=254s)
 
 ## Courses
 
