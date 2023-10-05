@@ -419,6 +419,10 @@ ng update  @angular/cli@14 @angular/cdk@14 @angular/core@14 @angular/common@14 @
       - Great for big scope application and multiple endpoints.
    2. [RSCSS](https://rscss.io)
       - A styleguide for creating styles, made by a filipino github contributor.
+   3. [Nrwl/Nx](https://nx.dev)
+      - A tool for scaling multiple applications used by different developer teams within a single monorepo
+   4. [RxAngular](https://www.rx-angular.io/)
+      - A toolkit that priotizes app runtime performance, efficient template rendering, and improved developer experience
       
 ## Trends in web technology
    1. [Tech-trends-showdown-react-vs-angular-vs-vue](https://zerotomastery.io/blog/tech-trends-showdown-react-vs-angular-vs-vue/?utm_source=medium&utm_medium=react-angular-vue)   
